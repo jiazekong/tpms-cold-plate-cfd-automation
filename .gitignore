@@ -1,0 +1,7 @@
+# 运行产物（STEP/网格/解算体积大, 不入库）
+output/
+__pycache__/
+*.pyc
+*.log
+*.cas.h5
+*.dat.h5
